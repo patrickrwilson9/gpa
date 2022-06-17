@@ -1,6 +1,6 @@
 /*****************************************************************************
  *AUTHOR  	 : Patrick Wilson
- *PROJECT 	 : Selection & Repetition - GPA
+ *PROJECT #	 : Selection & Repetition - GPA
  *DATE		 : 11/21/18
 ******************************************************************************/
 
@@ -41,7 +41,7 @@ int main()
 	 *************************************************************************/
 
 	const char PROGRAMMER[] = "Patrick Wilson";
-	const int  LAB_NUM      = 2;
+	const int  LAB_NUM      = 1;
 	const char LAB_NAME[]   = "Selection & Repetition - GPA";
 
 	const int  TOTAL_TESTS  = 10;
